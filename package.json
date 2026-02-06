@@ -1,0 +1,14 @@
+{
+  "name": "quickbooks-skill",
+  "version": "1.0.0",
+  "description": "QuickBooks Online read-only skill for Claude Code",
+  "type": "module",
+  "scripts": {
+    "quickbooks": "npx tsx scripts/quickbooks.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
