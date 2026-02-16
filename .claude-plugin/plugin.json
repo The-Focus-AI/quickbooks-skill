@@ -7,6 +7,6 @@
   },
   "keywords": ["quickbooks", "accounting", "invoices", "customers", "vendors", "oauth"],
   "skills": [
-    "./.claude-plugin/skills/quickbooks"
+    "./skills/quickbooks"
   ]
 }
